@@ -1,0 +1,20 @@
+Non-intelligent, loner-seeks food, avoids pain, seeks/avoids light
+Non-intelligent, group-minded-seeks food, avoids pain, seeks/avoids light
+Dumb, loner-incapable of strategy
+Dumb, paired-incapable of strategy
+Dumb, group-incapable of strategy
+Animal, loner-cat level, instinctively tricky
+Animal, paired-sheep dog-like tactics
+Animal, group-dog-like tactics
+Clever, loner-near human level thought, capable of simple planning
+Clever, paired-near human level thought, capable of simple planning
+Clever, group-near human level thought, capable of simple planning
+Human level, loner-can plan and execute complex strategies
+Human level, paired-can plan and execute complex strategies
+Human level, group-can plan and execute complex strategies
+Genius, loner-dazzling feats of logic and intuition
+Genius, paired-dazzling feats of logic and intuition
+Genius, group-dazzling feats of logic and intuition
+Borrowed, loner-psychically utilizes the intellect of foe or nearby sentient
+Borrowed, paired-psychically utilizes the intellect of foe or nearby sentient
+Borrowed, group-psychically utilizes the intellect of foe or nearby sentient

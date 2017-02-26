@@ -1,0 +1,20 @@
+Tough-normal appearance, but resistant to minor heat or damage
+Smokey-constantly emits wispy vapors
+Shadowy-skin absorbs light, wraith-like
+Flesh-mostly flesh, patches of fur or hair
+Scales-partially or fully scaled, resistant to attacks
+Spots-partially or fully spotted, various color schemes
+Fur-protection from cold
+Bald-creature is hairless, fleshy
+Sores-scabbed or oozing pus
+Ridges-corrugated flesh or ridges of exposed bone
+Spines-creature has partial or full coverage
+Moldy-host to a thick, colorful skin fungus, or actually is a fungus
+Carapace/shell-bone or chitin armor, highly resistant to damage
+Loose folds-able to glide down from heights and/or enwrap victim
+Ciliated-covered in wiggling cilia, long or short, thick or skinny
+Bioluminescent-glows faintly or brightly, constantly or at will
+Transparent-internal organs and half-digested foods are visible
+Color shifting-chameleonic
+Slimy-covered with a gel or mucus-like substance
+Stripes-partially or fully, various color schemes
