@@ -90,6 +90,17 @@ void reprint()
   }
   text("Press r to refresh",width/20,height-height/20);
 }
+
+void mouseClicked() {
+  for(int i = 0; i<Traits.values().length;i++)
+  {
+    if(mouseY > height/10 + 30*i -15 && mouseY < height/10 + 30*i +15)
+    {
+      randNum[i] = (int)random(traitList.get(i).length);
+      reprint();
+    }
+  }
+}
 void keyReleased() {
   if (key == 'r') {
     printRand();
